@@ -1,0 +1,26 @@
+#font-family{
+    font-family: "DM Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .container-fluid{
+      background-color: gold;
+  }
+  
+  hr{
+      height: 2px;
+      background-color: olive;
+      border: olive;
+  }
+  
+  #footerthing{
+      margin: 50px;
+  }
+  .e {
+    border: 5px solid white;
+    height: 70%;
+    width: 100%;
+    background:lightblue;
+  }
